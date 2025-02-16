@@ -1,5 +1,28 @@
-# 💫 About Me:
-👋 Hey there! Welcome to My GitHub Profile!<br>🚀 I'm currently working on:<br>A Drug Free Awareness System – a modern web application aimed at promoting awareness and providing resources for a drug-free lifestyle.<br><br>🤝 I'm looking to collaborate on:<br>React.js projects to improve my front-end development skills.<br>Open-source projects related to social impact and awareness.<br>❓ I'm looking for help with:<br>Best practices in React development.<br>Implementing backend functionality and API integration.<br>UI/UX improvements for a modern and engaging design.<br>📚 I'm currently learning:<br>React.js (Components, Hooks, State Management)<br>JavaScript (ES6+)<br>Version Control (Git & GitHub)<br>Responsive Web Design<br>💬 Ask me about:<br>My journey as a beginner in React.<br>The Drug Free Awareness System project.<br>My experience learning front-end development.<br>🎉 Fun Fact:<br>I started coding because I wanted to build something meaningful, and now I’m on a mission to create impactful projects! 🚀<br><br>
+# 👋 Muhammad Shoaib  
+
+🚀 **Web Developer | Data Science Enthusiast**  
+
+### 🔹 Currently Working On  
+- 🏗️ **Drug-Free Awareness System** (React.js, Tailwind CSS)  
+- 🛠️ **Building Scalable Web Applications**  
+
+### 📌 Skills & Interests  
+- 🌐 **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, React.js  
+- 📊 **Data Science:** Probability & Statistics, Regression Analysis  
+- ⚡ **Tech Enthusiast:** Exploring AI & Web Innovations  
+
+### 📚 Learning & Growth  
+- 🔥 **React.js Mastery** – Advanced UI/UX Techniques  
+- 📈 **Data Science** – Analytical Thinking & Visualization  
+
+### 🎯 Goals  
+- 🏆 **Contribute to Open Source**  
+- 🚀 **Develop High-Impact Web Solutions**  
+- 🎓 **Expand Knowledge in Modern Technologies**  
+
+
+⭐ **Feel free to explore my repositories and connect with me!**  
+
 
 
 ## 🌐 Socials:
@@ -14,5 +37,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Muhammad-Shoaib-1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
