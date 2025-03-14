@@ -3,7 +3,7 @@
 🚀 **Web Developer | Data Science Enthusiast**  
 
 ### 🔹 Currently Working On  
-- 🏗️ **Drug-Free Awareness System** (React.js, Tailwind CSS)  
+- 🏗️ **Drug-Free Awareness System** (Java Script, Bootstrap, Tailwind CSS)  
 - 🛠️ **Building Scalable Web Applications**  
 
 ### 📌 Skills & Interests  
