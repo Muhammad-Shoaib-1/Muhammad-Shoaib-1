@@ -2,10 +2,6 @@
 
 🚀 **Web Developer | Data Science Enthusiast**  
 
-### 🔹 Currently Working On  
-- 🏗️ **Drug-Free Awareness System** (Java Script, Bootstrap, Tailwind CSS)  
-- 🛠️ **Building Scalable Web Applications**  
-
 ### 📌 Skills & Interests  
 - 🌐 **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, React.js  
 - 📊 **Data Science:** Probability & Statistics, Regression Analysis  
@@ -14,11 +10,6 @@
 ### 📚 Learning & Growth  
 - 🔥 **React.js Mastery** – Advanced UI/UX Techniques  
 - 📈 **Data Science** – Analytical Thinking & Visualization  
-
-### 🎯 Goals  
-- 🏆 **Contribute to Open Source**  
-- 🚀 **Develop High-Impact Web Solutions**  
-- 🎓 **Expand Knowledge in Modern Technologies**  
 
 
 ⭐ **Feel free to explore my repositories and connect with me!**  
