@@ -1,16 +1,13 @@
 # 👋 Muhammad Shoaib  
 
-🚀 **Web Developer | Data Science Enthusiast**  
+🚀 Web Developer 
 
 ### 📌 Skills & Interests  
 - 🌐 **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, React.js  
-- 📊 **Data Science:** Probability & Statistics, Regression Analysis  
 - ⚡ **Tech Enthusiast:** Exploring AI & Web Innovations  
 
 ### 📚 Learning & Growth  
-- 🔥 **React.js Mastery** – Advanced UI/UX Techniques  
-- 📈 **Data Science** – Analytical Thinking & Visualization  
-
+- 🔥 **React.js Mastery** – Advanced UI/UX Techniques
 
 ⭐ **Feel free to explore my repositories and connect with me!**  
 
