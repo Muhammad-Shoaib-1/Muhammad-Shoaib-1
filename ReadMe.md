@@ -3,7 +3,7 @@
 🚀 Web Developer 
 
 ### 📌 Skills & Interests  
-- 🌐 **Web Development:** HTML, CSS, Bootstrap, Tailwind CSS, React.js , Next.js , MongoDB
+- 🌐 **Web Development:** HTML, CSS, Bootstrap, Tailwind CSS, Node.js , React.js , Next.js , MongoDB
 - ⚡ **Tech Enthusiast:** Exploring AI & Web Innovations  
 
 ### 📚 Learning & Growth  
